@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T05:56:01.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RhJAUbwgqKXgPfizxnOu" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T05:59:47.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OtW-3M-5rL_IHMqs3ICZ" version="24.6.2" type="github">
   <diagram name="ページ1" id="asHndj8KTmDriEIqwjIS">
     <mxGraphModel dx="1092" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,10 +110,10 @@
         <mxCell id="0tyZVpCmgbR_nW00zcxR-32" value="「更新」リンクをクリック" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="840" y="140" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0tyZVpCmgbR_nW00zcxR-33" value="データベースに格納された情報を表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-33" value="データベースに格納されているuserNameとTextを表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0tyZVpCmgbR_nW00zcxR-35" value="データベースに格納された情報を表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-35" value="データベースに格納されているuserNameとTextを表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tyZVpCmgbR_nW00zcxR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="0tyZVpCmgbR_nW00zcxR-38" source="0tyZVpCmgbR_nW00zcxR-33">
@@ -161,7 +161,7 @@
         <mxCell id="0tyZVpCmgbR_nW00zcxR-49" value="データベースに格納" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1270" y="295" width="119" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0tyZVpCmgbR_nW00zcxR-50" value="データベースの降順に格納された情報を表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-50" value="データベースに格納された古い順にuserNameとTextを表示" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tyZVpCmgbR_nW00zcxR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0tyZVpCmgbR_nW00zcxR-55" source="0tyZVpCmgbR_nW00zcxR-50">
