@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T05:36:10.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qpNvQIzbQt5AsmTcLDDs" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T05:41:57.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="piCC6iYjrsOIxjCcxCCI" version="24.6.2" type="github">
   <diagram name="ページ1" id="asHndj8KTmDriEIqwjIS">
     <mxGraphModel dx="1092" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,14 +37,20 @@
         <mxCell id="0tyZVpCmgbR_nW00zcxR-6" value="ログインに失敗しました" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tyZVpCmgbR_nW00zcxR-8" target="0tyZVpCmgbR_nW00zcxR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0tyZVpCmgbR_nW00zcxR-8" value="&lt;p style=&quot;font-family: Meiryo; font-size: 12px; text-align: start;&quot;&gt;ログインに成功しました&lt;/p&gt;&lt;p style=&quot;font-family: Meiryo; font-size: 12px; text-align: start;&quot;&gt;ようこそuserAさん&lt;/p&gt;" style="whiteSpace=wrap;html=1;dashed=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="350" y="255" width="150" height="60" as="geometry" />
+          <mxGeometry x="330" y="255" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tyZVpCmgbR_nW00zcxR-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0tyZVpCmgbR_nW00zcxR-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="248" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-13" value="データベースの情報表示" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="358" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
