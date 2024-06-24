@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:47:58.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="aTOoHyMEHvY6VrXGgBAP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:53:31.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6wWbwFjGddmReZ6XJArt" version="24.6.2" type="github">
   <diagram name="ページ1" id="A32ng7OL2nxMNvxdqdLt">
-    <mxGraphModel>
+    <mxGraphModel dx="1092" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-1" target="-irwc8lUK7iUkhteH6Yg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-1" target="-irwc8lUK7iUkhteH6Yg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-1" value="ログイン画面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-2" target="-irwc8lUK7iUkhteH6Yg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-2" value="ログイン成功画面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-4" target="-irwc8lUK7iUkhteH6Yg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="575" />
+              <mxPoint x="100" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-4" value="ログイン失敗&lt;span style=&quot;background-color: initial;&quot;&gt;画面&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-7" target="-irwc8lUK7iUkhteH6Yg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-7" value="メイン&lt;span style=&quot;background-color: initial;&quot;&gt;画面&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-irwc8lUK7iUkhteH6Yg-11" target="-irwc8lUK7iUkhteH6Yg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-irwc8lUK7iUkhteH6Yg-11" value="&lt;span style=&quot;background-color: initial;&quot;&gt;ログアウト画面&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
