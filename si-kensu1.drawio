@@ -1,9 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T04:38:09.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="fCXLuUoivezfkiHheGoT" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T04:40:26.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GMa8gFzHAT2AVOyWQIHA" version="24.6.2" type="github">
   <diagram name="ページ1" id="tZBKwa-wdrdst74Njl1n">
-    <mxGraphModel>
+    <mxGraphModel dx="752" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n-e8lvIgZYjuZ39lZhrH-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="30" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="n-e8lvIgZYjuZ39lZhrH-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="n-e8lvIgZYjuZ39lZhrH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n-e8lvIgZYjuZ39lZhrH-2" value="LoginServlet" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
