@@ -1,11 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T05:24:35.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YJ3Hf6VBLWmKdNjFxesj" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T05:30:31.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cLpAECKaQNm2gTML143x" version="24.6.2" type="github">
   <diagram name="ページ1" id="asHndj8KTmDriEIqwjIS">
     <mxGraphModel dx="1092" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0tyZVpCmgbR_nW00zcxR-1" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="80" height="30" as="geometry" />
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tyZVpCmgbR_nW00zcxR-1" target="0tyZVpCmgbR_nW00zcxR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-1" value="スタート" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tyZVpCmgbR_nW00zcxR-2" target="0tyZVpCmgbR_nW00zcxR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-2" value="ログインボタンが入力される" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tyZVpCmgbR_nW00zcxR-3" target="0tyZVpCmgbR_nW00zcxR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tyZVpCmgbR_nW00zcxR-3" target="0tyZVpCmgbR_nW00zcxR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-3" value="userName == NULL || password == NULL" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-6" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-8" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0tyZVpCmgbR_nW00zcxR-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="248" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
